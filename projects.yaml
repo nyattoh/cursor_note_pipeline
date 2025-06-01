@@ -1,0 +1,16 @@
+# projects.yaml
+
+projects:
+  - category: サンプルカテゴリ
+    items:
+      - id: 1-1
+        title: "サンプルプロジェクトA"
+        status: "進行中"
+        next_steps:
+          - "仕様書作成"
+          - "初回ミーティング"
+      - id: 1-2
+        title: "サンプルプロジェクトB"
+        status: "完了"
+        next_steps:
+          - "振り返り"
